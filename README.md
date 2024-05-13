@@ -37,6 +37,6 @@ npm run dev
 
 - [Redux](https://redux.js.org/)
 
--[react-redux](https://react-redux.js.org/)
+  -[react-redux](https://react-redux.js.org/)
 
--[react-icons](https://react-icons.github.io/react-icons/)
+  -[react-icons](https://react-icons.github.io/react-icons/)
