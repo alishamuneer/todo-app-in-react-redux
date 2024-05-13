@@ -13,7 +13,7 @@
 
 ```
 git clone https://github.com/alishamuneer/todo-app-in-react-redux.git
-cd todo-app
+cd todo-redux
 npm install
 ```
 
@@ -21,12 +21,6 @@ npm install
 
 ```
 npm run dev
-```
-
-## Build for production
-
-```
-npm run build
 ```
 
 ## Languages & tools
